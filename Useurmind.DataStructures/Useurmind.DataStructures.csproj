@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Jochen Grün</Authors>
+    <Company />
+    <Description>Package with usefull data structures, e.g. DoubleKeyDictionary.</Description>
+    <PackageLicenseUrl>https://github.com/Useurmind/DataStructures/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Useurmind/DataStructures</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Useurmind/DataStructures.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
